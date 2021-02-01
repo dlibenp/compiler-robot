@@ -1,0 +1,4 @@
+main {
+robot primero;
+destruir primero;
+}

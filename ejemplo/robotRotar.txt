@@ -1,0 +1,7 @@
+main {
+robot primero;
+int var;
+var=5;
+rotar primero var;
+rotar primero 4;
+}

@@ -1,0 +1,10 @@
+main {
+robot MiRobot1;
+crear MiRobot1 30,13,3;
+robot MiRobot2;
+crear MiRobot2 32,65,2;
+mover MiRobot2 3;
+rotar MiRobot1, 2;
+destruir MiRobot1;
+destruir MiRobot2;
+}
